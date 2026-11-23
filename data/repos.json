@@ -1,0 +1,274 @@
+[
+ {
+  "name": "contribution-art",
+  "description": "Contribution graph art (backdated commits). Delete this repo to remove the art.",
+  "url": "https://github.com/zemen14/contribution-art",
+  "stargazerCount": 0,
+  "forkCount": 0,
+  "isFork": false,
+  "parent": null,
+  "primaryLanguage": null,
+  "updatedAt": "2026-11-19T14:07:21Z",
+  "pushedAt": "2026-11-19T15:37:56Z"
+ },
+ {
+  "name": "graph-calibration-test",
+  "description": "Temporary calibration repo, will be deleted.",
+  "url": "https://github.com/zemen14/graph-calibration-test",
+  "stargazerCount": 0,
+  "forkCount": 0,
+  "isFork": false,
+  "parent": null,
+  "primaryLanguage": null,
+  "updatedAt": "2026-11-19T08:02:55Z",
+  "pushedAt": "2026-11-19T18:41:15Z"
+ },
+ {
+  "name": "zemen14",
+  "description": "Zemen Bariagabr \u2014 Computer Engineering @ UC Santa Cruz. I build systems that bridge hardware and software.",
+  "url": "https://github.com/zemen14/zemen14",
+  "stargazerCount": 0,
+  "forkCount": 0,
+  "isFork": false,
+  "parent": null,
+  "primaryLanguage": null,
+  "updatedAt": "2026-10-13T23:48:51Z",
+  "pushedAt": "2026-11-19T02:14:04Z"
+ },
+ {
+  "name": "Agent-Forge-AI-Hackathon",
+  "description": "Placed T20 out of 330+ people",
+  "url": "https://github.com/zemen14/Agent-Forge-AI-Hackathon",
+  "stargazerCount": 0,
+  "forkCount": 0,
+  "isFork": true,
+  "parent": null,
+  "primaryLanguage": null,
+  "updatedAt": "2026-10-13T23:48:18Z",
+  "pushedAt": "2026-05-16T22:53:05Z"
+ },
+ {
+  "name": "concurrent-http-server",
+  "description": "Concurrent HTTP/1.1 server in C from raw sockets: thread pool with a bounded work queue, striped per-file locks, strict request parsing, and a thread-safe audit log",
+  "url": "https://github.com/zemen14/concurrent-http-server",
+  "stargazerCount": 0,
+  "forkCount": 0,
+  "isFork": false,
+  "parent": null,
+  "primaryLanguage": {
+   "name": "C"
+  },
+  "updatedAt": "2026-10-13T23:45:00Z",
+  "pushedAt": "2026-10-13T23:44:56Z"
+ },
+ {
+  "name": "lightlink",
+  "description": "Text messages sent over a beam of light: a Raspberry Pi blinks Morse code on an LED, an ESP32-C3 reads it with a light sensor and reconstructs the message",
+  "url": "https://github.com/zemen14/lightlink",
+  "stargazerCount": 0,
+  "forkCount": 0,
+  "isFork": false,
+  "parent": null,
+  "primaryLanguage": {
+   "name": "C"
+  },
+  "updatedAt": "2026-10-13T23:18:25Z",
+  "pushedAt": "2026-10-13T23:18:22Z"
+ },
+ {
+  "name": "temp-telemetry",
+  "description": "ESP32-C3 telemetry node: reads a real SHTC3 sensor (CRC-validated) and POSTs temperature reports to a Python server every 10 seconds",
+  "url": "https://github.com/zemen14/temp-telemetry",
+  "stargazerCount": 0,
+  "forkCount": 0,
+  "isFork": false,
+  "parent": null,
+  "primaryLanguage": {
+   "name": "C"
+  },
+  "updatedAt": "2026-10-13T23:08:20Z",
+  "pushedAt": "2026-10-13T23:08:16Z"
+ },
+ {
+  "name": "live-weather-fetcher",
+  "description": "ESP32-C3 WiFi weather client: joins WiFi and pulls the live outdoor temperature from wttr.in every 30 seconds",
+  "url": "https://github.com/zemen14/live-weather-fetcher",
+  "stargazerCount": 0,
+  "forkCount": 0,
+  "isFork": false,
+  "parent": null,
+  "primaryLanguage": {
+   "name": "C"
+  },
+  "updatedAt": "2026-10-13T23:07:52Z",
+  "pushedAt": "2026-10-13T23:07:48Z"
+ },
+ {
+  "name": "cloud-weather-station",
+  "description": "Cloud-connected weather station: an ESP32-C3 + SHTC3 that reports to a Python server and cross-checks itself against live outdoor weather from wttr.in",
+  "url": "https://github.com/zemen14/cloud-weather-station",
+  "stargazerCount": 0,
+  "forkCount": 0,
+  "isFork": false,
+  "parent": null,
+  "primaryLanguage": {
+   "name": "C"
+  },
+  "updatedAt": "2026-10-13T23:04:09Z",
+  "pushedAt": "2026-10-13T23:04:06Z"
+ },
+ {
+  "name": "sonic-ruler",
+  "description": "Temperature-compensated ultrasonic range finder on ESP32-C3: corrects the speed of sound on every reading and reports the median of 9 samples",
+  "url": "https://github.com/zemen14/sonic-ruler",
+  "stargazerCount": 0,
+  "forkCount": 0,
+  "isFork": false,
+  "parent": null,
+  "primaryLanguage": {
+   "name": "C"
+  },
+  "updatedAt": "2026-10-13T22:53:07Z",
+  "pushedAt": "2026-10-13T22:53:03Z"
+ },
+ {
+  "name": "air-mouse",
+  "description": "Tilt-controlled Bluetooth mouse: an ESP32-C3 + ICM-42670 IMU that turns hand tilt into cursor movement over BLE HID, with pointer acceleration and a physical click button",
+  "url": "https://github.com/zemen14/air-mouse",
+  "stargazerCount": 0,
+  "forkCount": 0,
+  "isFork": false,
+  "parent": null,
+  "primaryLanguage": {
+   "name": "C"
+  },
+  "updatedAt": "2026-10-13T22:48:25Z",
+  "pushedAt": "2026-10-13T22:48:20Z"
+ },
+ {
+  "name": "micro-weather-station",
+  "description": "A pocket weather station on ESP32-C3: live temperature and humidity from an SHTC3 sensor, painted on a 16x2 RGB LCD at register level - two I2C devices, one bus, one file",
+  "url": "https://github.com/zemen14/micro-weather-station",
+  "stargazerCount": 0,
+  "forkCount": 0,
+  "isFork": false,
+  "parent": null,
+  "primaryLanguage": {
+   "name": "C++"
+  },
+  "updatedAt": "2026-10-13T22:40:54Z",
+  "pushedAt": "2026-10-13T22:40:51Z"
+ },
+ {
+  "name": "shtc3-sensor-driver",
+  "description": "ESP32-C3 firmware reading temperature and humidity from an SHTC3 sensor over I2C (ESP-IDF), with CRC-8 validation and sensor sleep between readings",
+  "url": "https://github.com/zemen14/shtc3-sensor-driver",
+  "stargazerCount": 0,
+  "forkCount": 0,
+  "isFork": false,
+  "parent": null,
+  "primaryLanguage": {
+   "name": "C"
+  },
+  "updatedAt": "2026-10-13T22:01:32Z",
+  "pushedAt": "2026-10-13T22:01:27Z"
+ },
+ {
+  "name": "customer-database",
+  "description": "Customer database built on a hand-written hash table (djb2) in C, with a Python implementation for comparison.",
+  "url": "https://github.com/zemen14/customer-database",
+  "stargazerCount": 0,
+  "forkCount": 0,
+  "isFork": false,
+  "parent": null,
+  "primaryLanguage": {
+   "name": "C"
+  },
+  "updatedAt": "2026-10-13T21:46:14Z",
+  "pushedAt": "2026-10-13T21:46:09Z"
+ },
+ {
+  "name": "wordle-solver",
+  "description": "A Wordle solver in C that narrows a vocabulary by green/yellow/gray feedback, with an interactive mode.",
+  "url": "https://github.com/zemen14/wordle-solver",
+  "stargazerCount": 0,
+  "forkCount": 0,
+  "isFork": false,
+  "parent": null,
+  "primaryLanguage": {
+   "name": "C"
+  },
+  "updatedAt": "2026-10-13T21:46:03Z",
+  "pushedAt": "2026-10-13T21:45:58Z"
+ },
+ {
+  "name": "wordle-game",
+  "description": "Wordle in C \u2014 and again in Python \u2014 with a vocabulary-driven game loop.",
+  "url": "https://github.com/zemen14/wordle-game",
+  "stargazerCount": 0,
+  "forkCount": 0,
+  "isFork": false,
+  "parent": null,
+  "primaryLanguage": {
+   "name": "C"
+  },
+  "updatedAt": "2026-10-13T21:45:52Z",
+  "pushedAt": "2026-10-13T21:45:48Z"
+ },
+ {
+  "name": "text-editor",
+  "description": "A line-based text editor in C \u2014 separated library and front end, with unit tests.",
+  "url": "https://github.com/zemen14/text-editor",
+  "stargazerCount": 0,
+  "forkCount": 0,
+  "isFork": false,
+  "parent": null,
+  "primaryLanguage": {
+   "name": "C"
+  },
+  "updatedAt": "2026-10-13T21:45:39Z",
+  "pushedAt": "2026-10-13T21:45:35Z"
+ },
+ {
+  "name": "string-utilities",
+  "description": "A small string library in C with unit tests.",
+  "url": "https://github.com/zemen14/string-utilities",
+  "stargazerCount": 0,
+  "forkCount": 0,
+  "isFork": false,
+  "parent": null,
+  "primaryLanguage": {
+   "name": "C"
+  },
+  "updatedAt": "2026-10-13T21:45:30Z",
+  "pushedAt": "2026-10-13T21:45:26Z"
+ },
+ {
+  "name": "stack-calculator",
+  "description": "Postfix (RPN) calculator in C built on an explicit stack, with a small math helper library.",
+  "url": "https://github.com/zemen14/stack-calculator",
+  "stargazerCount": 0,
+  "forkCount": 0,
+  "isFork": false,
+  "parent": null,
+  "primaryLanguage": {
+   "name": "C"
+  },
+  "updatedAt": "2026-10-13T21:45:23Z",
+  "pushedAt": "2026-10-13T21:45:19Z"
+ },
+ {
+  "name": "c-basics",
+  "description": "Introductory C programs: a small basics library with unit tests, plus caat, a vowel-doubling text filter.",
+  "url": "https://github.com/zemen14/c-basics",
+  "stargazerCount": 0,
+  "forkCount": 0,
+  "isFork": false,
+  "parent": null,
+  "primaryLanguage": {
+   "name": "C"
+  },
+  "updatedAt": "2026-10-13T21:45:14Z",
+  "pushedAt": "2026-10-13T21:45:10Z"
+ }
+]
