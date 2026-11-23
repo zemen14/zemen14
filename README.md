@@ -1,8 +1,14 @@
-# Hi, I'm Zemen Bariagabr
+<img src="./cards/hero.svg" width="100%" alt="Zemen Bariagabr" />
 
-Computer Engineering student at UC Santa Cruz (B.S., expected June 2028).
-I build systems that bridge hardware and software — embedded firmware,
-systems programming in C, and the tooling around both.
+<img src="./cards/graph.svg" width="100%" alt="Contribution graph" />
+
+<img src="./cards/activity.svg" width="100%" alt="Monthly activity" />
+
+<a href="https://github.com/zemen14/air-mouse"><img src="./cards/tile-embedded.svg" width="32.5%" alt="Embedded" /></a>
+<a href="https://github.com/zemen14/concurrent-http-server"><img src="./cards/tile-systems.svg" width="32.5%" alt="Systems" /></a>
+<a href="https://github.com/zemen14/Agent-Forge-AI-Hackathon"><img src="./cards/tile-software.svg" width="32.5%" alt="Software" /></a>
+
+<img src="./cards/projects.svg" width="100%" alt="Featured projects" />
 
 ## Featured projects
 
@@ -43,16 +49,6 @@ stack calculator, and a string-utilities library.
 C, C++, Java, Python — ESP-IDF / ESP32, Arduino, FPGA (Basys 3, Vivado),
 POSIX sockets & pthreads, Git, Linux.
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA%20·%20Vivado-762677?style=flat&logo=xilinx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
 ## Background
 
 - **AgentCheck** — a multi-agent hiring pipeline (Python, FastAPI) built on
@@ -64,17 +60,6 @@ POSIX sockets & pthreads, Git, Linux.
   firmware development, and electronics.
 - Member, National Society of Black Engineers; Management Leadership for
   Tomorrow Career Prep fellow (CP 2027).
-
-## GitHub stats
-
-<p>
-  <img height="165" alt="Zemen's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=zemen14&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zemen14&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p>
-  <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=zemen14&theme=tokyonight&hide_border=true" />
-</p>
 
 ## Contact
 
